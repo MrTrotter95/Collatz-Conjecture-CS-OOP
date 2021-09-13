@@ -1,0 +1,7 @@
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\bin\Debug\Collatz Conjecture OOP.exe.config
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\bin\Debug\Collatz Conjecture OOP.exe
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\bin\Debug\Collatz Conjecture OOP.pdb
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\obj\Debug\Collatz Conjecture OOP.csproj.AssemblyReference.cache
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\obj\Debug\Collatz Conjecture OOP.csproj.CoreCompileInputs.cache
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\obj\Debug\Collatz Conjecture OOP.exe
+C:\Users\alist\source\repos\Collatz Conjecture OOP\Collatz Conjecture OOP\obj\Debug\Collatz Conjecture OOP.pdb
